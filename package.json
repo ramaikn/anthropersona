@@ -1,0 +1,31 @@
+{
+  "name": "anthropersona",
+  "version": "1.0.0",
+  "description": "Anthropic model persona system for AI coding agents — one command install",
+  "license": "MIT",
+  "bin": "./cli/src/index.js",
+  "files": [
+    "cli/",
+    "personas/"
+  ],
+  "keywords": [
+    "anthropic",
+    "claude",
+    "opus",
+    "sonnet",
+    "fable",
+    "persona",
+    "prompt-engineering",
+    "coding-agent",
+    "ai",
+    "llm",
+    "system-prompt",
+    "chain-of-thought",
+    "cot",
+    "openai-compatible"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramaikn/anthropersona"
+  }
+}
