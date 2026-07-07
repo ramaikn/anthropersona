@@ -105,3 +105,7 @@ System prompts extracted from [asgeirtj/system_prompts_leaks](https://github.com
 ---
 
 > **Disclaimer**: This is an unofficial project and is not affiliated with, endorsed by, or connected to Anthropic PBC. "Anthropic," "Claude," "Claude Opus," "Claude Sonnet," and "Claude Fable" are trademarks of Anthropic PBC. This project merely references publicly available system prompt material for interoperability and educational purposes.
+
+## License
+
+MIT
